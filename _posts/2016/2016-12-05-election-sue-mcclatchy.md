@@ -4,7 +4,7 @@ authors: ["Sue McClatchy"]
 title: "2017 Election: Sue McClatchy"
 date: 2016-12-05
 time: "14:00:00"
-category: ["Software Carpentry Foundation", "Elections", "Steering Committee"]
+category: ["Software Carpentry Foundation", "Election 2017", "Steering Committee"]
 ---
 
 Hi,
@@ -73,7 +73,7 @@ a diverse audience.
 
 More about me if you're so inclined
 -----
-More about me on [LinkedIn] (https://www.linkedin.com/in/suemcclatchy), 
-[Github] (https://github.com/smcclatchy), and an occasional tweet from 
-[@SueMcclatchy] (https://twitter.com/SueMcclatchy). I also have a minimalist [instructor
-training blog] (https://smcclatchy.github.io/).
+More about me on [LinkedIn](https://www.linkedin.com/in/suemcclatchy), 
+[Github](https://github.com/smcclatchy), and an occasional tweet from 
+[@SueMcclatchy](https://twitter.com/SueMcclatchy).
+I also have a minimalist [instructor training blog](https://smcclatchy.github.io/).
